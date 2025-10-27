@@ -48,29 +48,38 @@ Ensure you have the following installed on your system:
     npm start
     ```
 3.  **Component Setup**
-    You will need three separate terminal windows open to run the Client, Server, and Worker processes concurrently.
+
+    You will need three separate terminal windows open to run the Client, Server, and Worker processes concurrently.4
+    
     **Client Setup (Terminal 1)**
+    
     This runs the frontend application
     ```bash
     cd client
     npm install
     npm run dev
     ```
+    
     **Server Setup (Terminal 2)**
+    
     This runs the backend API.
     ```bash
     cd server
     npm install
     npm run dev
     ```
+    
     **Worker Setup (Terminal 3)**
+    
     This runs the background task processor.
     ````bash
     cd worker
     npm install
     npm run dev:worker
     ````
+    
     **Running Docker Compose (Terminal 4)**
+    
     Make sure you have docker installed and added as PATH variable on your desktop and is up and running.
     ````bash
     docker compose up
