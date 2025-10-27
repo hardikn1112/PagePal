@@ -71,7 +71,7 @@ app.get('/chat', async (req,res) => {
 
 
     const embeddings = new GoogleGenerativeAIEmbeddings({
-          apiKey: 'AIzaSyDJt-W5axRCMLz_Z7SaN6WU0vKUq3frMEs',
+          apiKey: GEMINI_API,
           model: "gemini-embedding-001",
           outputDimensionality: 768,
     });
