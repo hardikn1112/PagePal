@@ -1,0 +1,110 @@
+{
+  "node": {
+    "7f4903ba66334fba5454931f0447def7687acb571a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "exportedName": "formatMetadataHeaders",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+    },
+    "7fbeb6fd806b12dffb35345471dc80601b12ce7f35": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "exportedName": "collectKeylessMetadata",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+    },
+    "7f32df10f9084ee774576073b36d1642d687d68e2a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "deleteKeylessAction",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7f6215a18e6f6b8216a83938988d4976020bc2af18": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "createOrReadKeylessAction",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7fa27fe8186ad58b8931095d18585098013c3d9763": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "detectKeylessEnvDriftAction",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7fcc8738c705d5cec0c6f29c135a5cf45435d09e62": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "syncKeylessConfigAction",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7fe8bc52740473d880fb9358b3e8f8b52554bdf409": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pdf-chat-ai/client/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "invalidateCacheAction",
+      "filename": "Desktop/pdf-chat-ai/client/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+    }
+  },
+  "edge": {}
+}

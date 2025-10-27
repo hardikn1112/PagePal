@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/1ea2d_next_dist_086ff91e._.js",
+      "static/chunks/Desktop_pdf-chat-ai_client_app_favicon_ico_mjs_df590270._.js",
+      "static/chunks/[root-of-the-server]__0c1e7e53._.css",
+      "static/chunks/1ea2d_@clerk_nextjs_dist_esm_app-router_a575b9c6._.js",
+      "static/chunks/1ea2d_08ad2b0a._.js",
+      "static/chunks/Desktop_pdf-chat-ai_client_app_layout_tsx_2c689b54._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_33dadb63._.js",
+      "static/chunks/1ea2d_next_dist_compiled_react-dom_91966a09._.js",
+      "static/chunks/1ea2d_next_dist_compiled_next-devtools_index_2ddaf276.js",
+      "static/chunks/1ea2d_next_dist_compiled_78dfcd97._.js",
+      "static/chunks/1ea2d_next_dist_client_f36aee23._.js",
+      "static/chunks/1ea2d_next_dist_4073b4a2._.js",
+      "static/chunks/1ea2d_@swc_helpers_cjs_66fbafaf._.js",
+      "static/chunks/Desktop_pdf-chat-ai_client_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_pdf-chat-ai_client_61d0e657._.js"
+    ]
+  }
+}
