@@ -28,7 +28,15 @@ The platform is orchestrated via Docker Compose for scalability, utilizing key s
 
 ### 🚀 Getting Started
 
-To run PagePal locally, choose your preferred method:
+## 🛠️ 1. Prerequisites
+
+Ensure you have the following installed on your system:
+
+* **Node.js** (and **npm**)
+* **Git** for repository management
+* **Docker** for running the docker images
+
+---
 
 1.  **Clone the Repository:**
     ```bash
@@ -39,7 +47,32 @@ To run PagePal locally, choose your preferred method:
     npm install
     npm start
     ```
-3.  **Start with Docker Compose (Recommended):**
+3.  **Component Setup**
+    You will need three separate terminal windows open to run the Client, Server, and Worker processes concurrently.
+    **Client Setup (Terminal 1)**
+    This runs the frontend application
     ```bash
-    docker compose up
+    cd client
+    npm install
+    npm run dev
     ```
+    **Server Setup (Terminal 2)**
+    This runs the backend API.
+    ```bash
+    cd server
+    npm install
+    npm run dev
+    ```
+    **Worker Setup (Terminal 3)**
+    This runs the background task processor.
+    ````bash
+    cd worker
+    npm install
+    npm run dev:worker
+    ````
+    **Running Docker Compose (Terminal 4)**
+    Make sure you have docker installed and added as PATH variable on your desktop and is up and running.
+    ````bash
+    docker compose up
+    ````
+    
