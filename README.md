@@ -28,7 +28,7 @@ The platform is orchestrated via Docker Compose for scalability, utilizing key s
 
 ### 🚀 Getting Started
 
-## 🛠️ 1. Prerequisites
+## 🛠️  Prerequisites
 
 Ensure you have the following installed on your system:
 
