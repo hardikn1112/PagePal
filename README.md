@@ -1,55 +1,50 @@
+## 📚 PagePal: Your AI-Powered Reading Companion
 
-PagePal
-PagePal is an AI-powered reading companion that enhances your reading experience with instant recaps, spoiler-free character guides, smart page simplification, and interactive dialogue. The platform uses state-of-the-art vector embeddings and RAG (Retrieval Augmented Generation) methods for semantic search and accurate knowledge retrieval throughout your documents.
+PagePal is an **AI-powered reading companion** designed to transform your reading experience. It uses **state-of-the-art vector embeddings and RAG (Retrieval Augmented Generation)** for accurate knowledge retrieval and contextual responses across your documents.
 
-Features
-AI-Powered Recaps: Instantly summarize pages or the “story so far” without any spoilers.
+---
 
-Character & Story Guides: Get spoiler-free references to characters and key plot elements.
+### ✨ Key Features
 
-Smart Page Simplification: Easily understand complex passages through natural language explanations.
+* **AI-Powered Recaps:** Instantly summarize pages or the "story so far" with guaranteed **spoiler-free** content.
+* **Character & Story Guides:** Get quick, spoiler-free references for **characters and key plot elements**.
+* **Smart Page Simplification:** Easily understand complex passages with natural language **explanations**.
+* **Interactive Chat Companion:** Engage in real-time **Q&A and topic discovery**.
 
-Interactive Chat Companion: Engage in real-time Q&A and topic discovery.
+---
 
-Semantic Search: Utilizes vector embeddings to represent and retrieve relevant text based on semantic similarity.
+### 🧠 Technology Core: Vector Embeddings & RAG
 
-Retrieval Augmented Generation (RAG): Combines semantic search with generative AI for contextual responses.
+PagePal's accuracy and context rely on advanced methods:
 
-Vector Embeddings & RAG
-PagePal uses advanced embedding models to convert text and queries into high-dimensional vectors.
+| Technology | Description |
+| :--- | :--- |
+| **Vector Embeddings** | Advanced models convert text and queries into **high-dimensional vectors** for fast, accurate **semantic search** (retrieving relevant text based on meaning). |
+| **RAG** (Retrieval Augmented Generation) | Combines the precise retrieval of **semantic search** with the power of generative AI for highly **contextual and accurate** responses. |
 
-Vector embeddings facilitate fast and accurate semantic similarity searches over books and documents.
+---
 
-The retrieval pipeline leverages these embeddings to fetch the most relevant information, improving answer accuracy and conversational context.
+### ⚙️ Docker Compose Services
 
-Docker Compose Services
-PagePal employs multiple services orchestrated through Docker Compose for scalability and performance:
+The platform is orchestrated via Docker Compose for scalability, utilizing key services:
 
-Qdrant: High-speed vector database storing and searching embeddings for semantic retrieval.
+* **Qdrant:** High-speed **vector database** for storing and searching text embeddings.
+* **Valkey:** In-memory data store (Redis-compatible) for **caching and session management**.
 
-Valkey: In-memory data store compatible with Redis, optimizes caching and session management.
+### 🚀 Getting Started
 
-Backend API: Node.js/Express server for embedding computation, orchestration, and chat management.
+To run PagePal locally, choose your preferred method:
 
-Frontend: React client for the user interface and API interaction.
-
-Getting Started
-Clone the repository:
-
-bash
-git clone https://github.com/hardikn1112/PagePal.git
-Install dependencies:
-
-bash
-npm install
-Run the application:
-
-bash
-npm start
-Or start with Docker Compose:
-
-bash
-docker compose up
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/hardikn1112/PagePal.git](https://github.com/hardikn1112/PagePal.git)
+    ```
+2.  **Install & Run (Local Node):**
+    ```bash
+    npm install
+    npm start
+    ```
+3.  **Start with Docker Compose (Recommended):**
+    ```bash
+    docker compose up
+    ```
