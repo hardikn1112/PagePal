@@ -45,8 +45,7 @@ Ensure you have the following installed on your system:
     
 2.  **Component Setup**
 
-    You will need three separate terminal windows open to run the Client, Server, and Worker processes concurrently.4
-    
+    You will need three separate terminal windows open to run the Client, Server, and Worker processes concurrently.    
     **Client Setup (Terminal 1)**
     
     This runs the frontend application
