@@ -42,12 +42,8 @@ Ensure you have the following installed on your system:
     ```bash
     git clone [https://github.com/hardikn1112/PagePal.git](https://github.com/hardikn1112/PagePal.git)
     ```
-2.  **Install & Run (Local Node):**
-    ```bash
-    npm install
-    npm start
-    ```
-3.  **Component Setup**
+    
+2.  **Component Setup**
 
     You will need three separate terminal windows open to run the Client, Server, and Worker processes concurrently.4
     
@@ -78,7 +74,7 @@ Ensure you have the following installed on your system:
     npm run dev:worker
     ````
     
-    **Running Docker Compose (Terminal 4)**
+3.  **Running Docker Compose (Terminal 4)**
     
     Make sure you have docker installed and added as PATH variable on your desktop and is up and running.
     ````bash
