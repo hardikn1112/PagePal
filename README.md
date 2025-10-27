@@ -4,16 +4,11 @@ PagePal is an **AI-powered reading companion** designed to transform your readin
 
 ---
 
-### ✨ Key Features
+### ✨ Key Features - Vector Embeddings & RAG
 
-* **AI-Powered Recaps:** Instantly summarize pages or the "story so far" with guaranteed **spoiler-free** content.
-* **Character & Story Guides:** Get quick, spoiler-free references for **characters and key plot elements**.
+* **AI-Powered Recaps:** Instantly summarize pages or the "story so far" of the content.
 * **Smart Page Simplification:** Easily understand complex passages with natural language **explanations**.
 * **Interactive Chat Companion:** Engage in real-time **Q&A and topic discovery**.
-
----
-
-### 🧠 Technology Core: Vector Embeddings & RAG
 
 PagePal's accuracy and context rely on advanced methods:
 
